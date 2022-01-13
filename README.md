@@ -6,4 +6,8 @@ https://github.com/FabChris01/Linkedin-Web-Scraper/blob/main/Linkedin_Web_Scrape
 
 https://www.geeksforgeeks.org/scraping-indeed-job-data-using-python/
 
+populous US cities
 https://gist.github.com/Miserlou/11500b2345d3fe850c92
+
+popular programming languages
+https://pypl.github.io/PYPL.html
